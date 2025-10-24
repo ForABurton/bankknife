@@ -1,0 +1,13 @@
+# Core data processing and visualization
+pandas
+pandasql
+matplotlib
+PyYAML
+
+# Machine learning categorization
+sentence-transformers
+fasttext
+
+# Experimental client/server (interchange mode)
+fastapi
+uvicorn
